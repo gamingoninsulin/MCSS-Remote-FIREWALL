@@ -1,5 +1,6 @@
 # MCSS-Remote-FIREWALL
 This should help with adding the REMOTE Access Ports to the Firewall.
+**_WINRAR OR 7-ZIP NEEDED TO EXTRACT_**
 
 ## to use this (FOR SERVER ADMINS):
 step 1. 
